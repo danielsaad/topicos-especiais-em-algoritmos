@@ -6,7 +6,7 @@ course_semester: "2021/2"
 baseurl: "/topicos-especiais-em-algoritmos" # the subpath of your site, e.g. /blog/
 url: "https://danielsaad.com" # the base hostname & protocol for your site
 
-#url: '127.0.0.1'
+# url: '127.0.0.1'
 
 schoolname: "Instituto Federal de Educação, Ciência e Tecnologia de Brasília, campus Taguatinga"
 schoolurl: "https://www.ifb.edu.br/"
