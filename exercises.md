@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: exercises
 title: Exercícios
 permalink: /exercises/
 ---
