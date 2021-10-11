@@ -1,4 +1,7 @@
 ---
 layout: home
 ---
-Registre na [sala de aula virtual da disciplina](https://groups.google.com/forum/#!forum/gp-id) para receber as notificações da disciplina.
+
+**Atendimento discente**: quartas-feiras das 14h às 16h. Agendamento através do [Calendly](https://calendly.com/daniel-saad/atendimento-discente)
+
+**Encontros síncronos**: quintas-feiras, das 09h às 12h, através do [Google Meet](https://meet.google.com/cgg-gvmo-deg) de acordo com as atividades previstas no plano de ensino.
