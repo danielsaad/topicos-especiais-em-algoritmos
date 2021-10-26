@@ -1,14 +1,12 @@
 ---
 type: exercises
 date: 2018-09-16T0:00:01-3:00
-title: Estruturas de Dados Lineares
+title: Estruturas de Dados Associativas e Vetores de Bits
 tldr: 
 thumbnail: /static_files/presentations/vjudge.png
 links: 
-    - url: https://vjudge.net/contest/462172
+    - url: https://vjudge.net/contest/464781
       name: Lista
-    - url: /assets/aulas/listas-de-exercicios/eds-lineares/editorial.pdf
-      name: Editorial
 ---
 
 <!-- **Suggested Readings:**
