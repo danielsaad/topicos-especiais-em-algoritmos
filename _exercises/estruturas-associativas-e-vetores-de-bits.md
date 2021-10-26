@@ -1,6 +1,6 @@
 ---
 type: exercises
-date: 2018-09-16T0:00:01-3:00
+date: 2018-09-16T0:00:02-3:00
 title: Estruturas de Dados Associativas e Vetores de Bits
 tldr: 
 thumbnail: /static_files/presentations/vjudge.png
