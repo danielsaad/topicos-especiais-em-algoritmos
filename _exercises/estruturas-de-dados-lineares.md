@@ -7,7 +7,7 @@ thumbnail: /static_files/presentations/vjudge.png
 links: 
     - url: https://vjudge.net/contest/462172
       name: Lista
-    - url: /assets/listas-de-exercicios/eds-lineares/editorial.pdf
+    - url: /assets/listas-de-exercicios/eds-lineares/editorial/editorial.pdf
       name: Editorial
 ---
 
