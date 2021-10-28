@@ -7,6 +7,8 @@ thumbnail: /static_files/presentations/vjudge.png
 links: 
     - url: https://vjudge.net/contest/464781
       name: Lista
+    - url: /assets/listas-de-exercicios/estruturas-associativas-e-vetores-de-bits/editorial.pdf
+      name: Editorial
 ---
 
 <!-- **Suggested Readings:**
