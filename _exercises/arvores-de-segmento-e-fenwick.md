@@ -1,6 +1,6 @@
 ---
 type: exercises
-date: 2018-09-16T0:00:02-3:00
+date: 2018-09-16T0:00:03-3:00
 title: Árvores de Segmentos e Fenwick
 tldr: 
 thumbnail: /static_files/presentations/vjudge.png
