@@ -7,6 +7,8 @@ thumbnail: /static_files/presentations/vjudge.png
 links: 
     - url: https://vjudge.net/contest/467657
       name: Lista
+    - url: /assets/listas-de-exercicios/busca-completa/editorial/editorial.pdf
+      name: Editorial
 ---
 
 <!-- **Suggested Readings:**
