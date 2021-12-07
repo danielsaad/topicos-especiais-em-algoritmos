@@ -7,6 +7,8 @@ thumbnail: /static_files/presentations/vjudge.png
 links: 
     - url: https://vjudge.net/contest/471412
       name: Lista
+    - url: /assets/listas-de-exercicios/divisao-e-conquista/editorial/editorial.pdf
+      name: Editorial
 ---
 
 <!-- **Suggested Readings:**
