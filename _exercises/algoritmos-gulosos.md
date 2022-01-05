@@ -1,7 +1,7 @@
 ---
 type: exercises
 date: 2018-09-16T0:00:06-3:00
-title: Divisão e Conquista
+title: Algoritmos Gulosos
 tldr: 
 thumbnail: /static_files/presentations/vjudge.png
 links: 
