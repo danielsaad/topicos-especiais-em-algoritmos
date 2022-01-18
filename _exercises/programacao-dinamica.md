@@ -7,6 +7,8 @@ thumbnail: /static_files/presentations/vjudge.png
 links: 
     - url: https://vjudge.net/contest/477088
       name: Lista
+    - url: /assets/listas-de-exercicios/programacao-dinamica/editorial/editorial.pdf
+      name: Editorial
 ---
 
 <!-- **Suggested Readings:**
