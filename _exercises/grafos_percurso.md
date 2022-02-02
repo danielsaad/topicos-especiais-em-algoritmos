@@ -7,8 +7,6 @@ thumbnail: /static_files/presentations/vjudge.png
 links: 
     - url: https://vjudge.net/contest/478986
       name: Lista
-    - url: 
-      name: Editorial
 ---
 
 <!-- **Suggested Readings:**
