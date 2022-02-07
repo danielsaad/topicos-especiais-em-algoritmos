@@ -1,7 +1,7 @@
 ---
 type: exercises
 date: 2018-09-16T0:00:08-3:00
-title: Grafos: Percurso
+title: Grafos Percurso
 tldr: 
 thumbnail: /static_files/presentations/vjudge.png
 links: 
